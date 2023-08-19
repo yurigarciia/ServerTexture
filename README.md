@@ -4,4 +4,6 @@ Simplesmente manter um arquivo disponível para download via link direto, utiliz
 
 
 > Link do discord do servidor (atualmente fechado):  https://discord.gg/fAWE67cZ9k
+>
+> 
 > @yuri.garciia
